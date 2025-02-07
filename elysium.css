@@ -1,0 +1,398 @@
+body{
+	background-color: #E6E6FA;
+}
+h1{
+	font-family: "Comic Sans MS";
+	margin-left: 10%;
+}
+h2{
+	font-family: "Candara";
+}
+h3{
+	font-family: "Candara";
+}
+input[name="login"]{
+	margin-top: 3vh;
+	background-color: #0000ff;
+	color: #ffffff;
+	font-size: 20px;
+	width: 150px;
+	height: 45px;
+	font-family: "Comic Sans MS";
+	border-color: white;
+}
+#digite{
+	margin-right: 11vh;
+}
+form{
+	text-align: center;
+}
+#margem{
+	height: 40px;
+	width: 500px;
+}
+#azul{
+	color: blue;
+}
+#data{
+	height: 10%;
+	font-size: 20px;
+}
+#login{
+		text-align: center;
+		font-family: "Comic Sans MS";
+		font-size: 60px;
+		margin-right: 20vh;
+}
+#logo{
+	align-items: center !important;
+	display: flex !important;
+}
+.fundo{
+	height: 100%;
+	width: 100%;
+	background-color: #E6E6FA;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.logo{
+	width: 39%;
+	height: 15vh;
+	background-color: #25065A;
+}
+.favoritos{
+	width: 19%;
+	height: 15vh;
+	background-color: #25065A;
+}
+.carrinho{
+	width: 19%;
+	height: 15vh;
+	background-color: #25065A;
+}
+.usuario{
+	width: 9%;
+	height: 15vh;
+	background-color: #25065A;
+}
+.menu{
+	width: 9%;
+	height: 15vh;
+	background-color: #25065A;
+}
+.div{
+	width: 1%;
+	height: 15vh;
+	background-color: #ffffff;
+}
+footer{
+	background-color: #25065A;
+	padding-bottom: 1vh;
+	margin-top: 2vh;
+	padding-left: 1vh;
+	padding-right: 1vh;
+}
+#um{
+	margin-right: 57vh;
+}
+#dois{
+	margin-right: 61vh;
+}
+#tres{
+	margin-right: 72vh;
+}
+#quatro{
+	margin-right: 72vh;
+}
+.branco{
+	width: 100%;
+	height: 10px;
+	background-color: white;
+}
+.pesquisa{
+	margin-left: 16.2vh;
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+	border: 5px;
+	width: 85%;
+	height: 10vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+
+}
+.destino{
+	background-color: white;
+	width: 29%;
+	height: 10vh;
+}
+.oto{
+	background-color: black;
+	width: 1%;
+	height: 10vh;
+}
+.entrada{
+	background-color: white;
+	height: 10vh;
+	width: 14%;
+}
+.saida{
+	background-color: white;
+	height: 10vh;
+	width: 14%;
+}
+.hospedes{
+	background-color: white;
+	height: 10vh;
+	width: 9%;
+}
+.quartos{
+	background-color: white;
+	height: 10vh;
+	width: 9%;
+}
+.brancodois{
+	align-items: center;
+	margin-left: 16.2vh;
+	width: 85%;
+	height: 5px;
+	background-color: black;
+}
+#pesquisa{
+	margin-left: 175vh;
+}
+.paris{
+	height: 45vh;
+	width: 20%;
+	background-color: black;
+}
+.popular{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 10vh;
+}
+.otodiv{
+	height: 45vh;
+	width: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.seta{
+	background-color: #25065A;
+	height: 20vh;
+	width: 30%;
+	margin-left: 8.1vh;
+}
+.york{
+	height: 45vh;
+	width: 20%;
+	background-color: black;
+}
+.sao{
+	height: 45vh;
+	width: 20%;
+	background-color: black;
+}
+.hotel{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 10vh;
+	padding-bottom: 0px;
+}
+.hotelum{
+	height: 45vh;
+	width: 24%;
+	background-color: black;
+}
+.hoteldois{
+	height: 45vh;
+	width: 24%;
+	background-color: black;
+}
+.hoteltres{
+	height: 45vh;
+	width: 24%;
+	background-color: black;
+}
+.separar{
+	height: 45vh;
+	width: 7%;
+}
+#rodape{
+	color: black;
+	border: 2px;
+}
+#white{
+	color: white ;
+}
+#whitee{
+	color: white;
+	margin-left: 18vh;
+}
+.hotela{
+	height: 25vh;
+	width: 24%;
+	background-color: #ffffff;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.hotelb{
+	height: 25vh;
+	width: 24%;
+	background-color: #ffffff;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.hotelc{
+	height: 25vh;
+	width: 24%;
+	background-color: #ffffff;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.complemento{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 0px;
+	text-align: left;
+}
+.otoseparar{
+	height: 25vh;
+	width: 7%;
+}
+#confirmar{
+	height: 7vh;
+	width: 35%;
+	background-color: #25065A;
+	margin-top: -3%;
+	justify-content: center;
+	flex-direction: column;
+}
+.center{
+	text-align: center;
+}
+.result{
+	margin-left: 20vh;
+	background-color: white;
+	width: 85%;
+	height: 40vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-top: 8.2vh;
+	margin-bottom: 16.2vh;
+}
+.img{
+	height: 40vh;
+	width: 30%;
+	background-color: #bbbbbb;
+}
+.texto{
+	height: 40vh;
+	width: 70%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	flex-wrap: wrap;
+	align-items: right;
+	background-color: white;
+}
+.confira{
+	height: 5vh;
+	width: 15%;
+	background-color: #25065A;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-left: 80%;
+
+}
+#confirm{
+	color: white;
+	text-align: center;
+}
+#titulo{
+	margin-top: -11.5vh;
+	color: white;
+	margin-left: 20vh;
+}
+#cab{
+	margin-left: 15vh;
+	margin-top: -11.5vh;
+	color: white;
+	font-family: "Comic Sans MS";
+}
+#lugar{
+	text-align: center;
+}
+#setinha{
+	margin-top: 6vh;
+}
+#nome{
+	margin-top: 1%;
+	font-family: "Comic Sans MS";
+	color: black;
+	text-align: center;
+}
+#dis{
+	font-family: "Candara";
+	text-align: center;
+	margin-top: -2%;
+}
+.cabe{
+	width: 100%;
+	height: 10%;
+}
+.espace{
+	width: 100%;
+	height: 10vh;
+}
+.what{
+	width: 60%;
+	height: 40vh;
+	margin-left: 10vh;
+}
+#hot{
+	font-family: Candara;
+}
+#hotel{
+	font-family: Comic Sans MS;
+}
+#confir{
+	font-family: Comic Sans MS;
+	color: white;
+}
